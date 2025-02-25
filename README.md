@@ -8,4 +8,4 @@ The project is divided into:
 2. **Preprocessing**
 3. **Embedding Models**
 4. **Model Evaluation**
-5. **Visualization**:
+5. **Visualization**
